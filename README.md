@@ -1,1 +1,2 @@
-# chat_bot_espe
+# BotAppCitas
+Este bot permite ajendar citas desde whatsapp...
