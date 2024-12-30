@@ -3,13 +3,13 @@
 # dependencies
 # dependencies
 /node_modules
-/Backend/node_modules/
-/Backend/.wwebjs_auth/
-/Backend/.wwebjs_cache/
+/backend/node_modules/
+/backend/.wwebjs_auth/
+/backend/.wwebjs_cache/
 /frontend/node_modules/
 /.pnp
 .pnp.js
-
+.env
 # testing
 /coverage
 
